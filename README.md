@@ -3,9 +3,6 @@
 ## 🌍 Overview
 AgroInsight-Prediction is an AI-powered machine learning solution designed to analyze agricultural data. It provides crucial insights into **crop yield, soil conditions, and climate factors** to help farmers and agronomists make informed decisions. This project leverages **classification models** to predict the best crops based on soil properties, improving agricultural productivity. 🏞️🏞️
 
-
-
-
 ## 🔥 Key Features
 👉 Loads and processes a **dataset** containing soil measurements and crop types.  
 👉 Performs **Exploratory Data Analysis (EDA)** to understand feature distributions.  
